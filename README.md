@@ -1,1 +1,2 @@
 # deep-thoughts
+deepthoughts = deepthoughts
